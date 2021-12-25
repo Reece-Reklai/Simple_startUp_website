@@ -14,15 +14,13 @@ h1{
   color: rgb(166, 231, 253);
   font-weight: 1000;
 }
-hr {
-  margin: 20px auto;
-  color: #F05F44;
-  border: 3px solid #F05F44;
-  max-width: 65px;
-  opacity: 1;  
-}
+
 .btn-size {
 padding: 1rem 2 rem;
+
+}
+.buffer {
+  height: 10rem;
 
 }
 
